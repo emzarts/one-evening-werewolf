@@ -14,7 +14,7 @@ export default function Home() {
         </h1>
 
         <div className="grid">
-          <a href="https://nextjs.org/docs" className="card">
+          <a href="/create-game" className="card">
             <h3>Create Game &rarr;</h3>
             <p>Start a new One Evening Werewolf game</p>
           </a>
